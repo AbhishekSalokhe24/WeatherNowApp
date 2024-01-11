@@ -1,6 +1,6 @@
 # WeatherNowApp
 
-![Weather App Preview](https://github.com/AbhishekSalokhe24/WeatherNowApp/blob/main/images/PreviewofAPP.png)
+![Weather App Preview](https://github.com/AbhishekSalokhe24/WeatherNowApp/blob/main/images/WeatherAPP%20Screenshot%20.png)
 
 
 ## Overview
@@ -18,7 +18,7 @@ Welcome to WeatherNowApp! This is a simple and responsive Weather App that enabl
 - HTML
 - CSS
 - JavaScript
-- [Weather API](https://openweathermap.org/current#name) - Utilized for fetching live weather data.
+- [Weather API](https://openweathermap.org/api) - Utilized for fetching live weather data.
 
 ## Usage
 
