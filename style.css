@@ -109,3 +109,37 @@ body{
     
 }
 
+
+@media only screen and (max-width: 767px) {
+    
+   
+    .card{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+        width: 90%;
+        border-radius: 15px;
+    }
+    .search input{
+        font-size: 1rem;
+        width: 100px;
+    }
+    .wind p{
+        font-size: 10px;
+    }
+    .col p{
+        font-size: .9rem;
+    }
+    .temp{
+        color: #ffff;
+        text-align: center;
+        margin-top: 0px;
+    }
+    .weather-icon {
+        width: 136px;
+        margin-top: 5px;
+    }
+    .col img{
+        width: 20px;
+    }
+    
+}
