@@ -1,5 +1,6 @@
 # WeatherNowApp
 
+![Weather App Preview](https://github.com/AbhishekSalokhe24/WeatherNowApp/blob/main/images/PreviewofAPP.png)
 
 
 ## Overview
